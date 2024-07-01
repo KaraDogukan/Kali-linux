@@ -1,2 +1,2 @@
 Gereksinimler:
-Bir işletim sistemi (Ubuntu'da test edilmiştir)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------Bir işletim sistemi (Ubuntu'da test edilmiştir)
