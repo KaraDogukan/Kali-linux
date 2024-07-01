@@ -14,7 +14,7 @@
 -
 cd Downloads <br/>
 
-udo dpkg -i discord-0-0.58.deb  
+sudo dpkg -i discord-0-0.58.deb  
 
 #kullanım
 -
