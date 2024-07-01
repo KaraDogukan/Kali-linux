@@ -20,7 +20,10 @@ sudo dpkg -i discord-0-0.58.deb
 -
 cd Downloads  İnternetten indirdiğimiz deb. uzantılı dosyanın bulunduğu konuma gidilir. <br/>
 
-sudo dpkg -i discord-0-0.58.deb "sudo" komutu ile rootdan izin alınır,"dpkg" komutu çevrimdışı indirme yapmamızı sağlar, "-i" yükleme (install) komutu , ve dosya adı.
+"sudo"  sudo komutu ile rootdan izin alınır. <br/>
+"dpkg" komutu çevrimdışı indirme yapmamızı sağlar. <br/>
+"-i" yükleme (install) komutu. <br/>
+Dosya adı seçilir.
 
 
 
